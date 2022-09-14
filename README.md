@@ -11,5 +11,7 @@ This is an international reference measure recognized by the WHO (World Health O
 # Pay Atention!!
 Heads up! Always look for a doctor!!
 
+For help getting started with python, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
 
 
