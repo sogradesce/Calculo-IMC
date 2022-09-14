@@ -13,5 +13,5 @@ Heads up! Always look for a doctor!!
 
 For help getting started with python, view our "https://docs.python.org/3/" which offers tutorials, samples, guidance on development, and a full API reference.
 
-
+Note: you can also use the Selenium Jupyter framework "Anaconda 3" as it is an automation
 
